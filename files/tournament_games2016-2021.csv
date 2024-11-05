@@ -1,0 +1,335 @@
+Season,HomeTeam,AwayTeam,RegularLongestWStreak,RegularLongestLStreak,RegularEndingWStreak,RegularTotalPlayed,RegularSeasonPercentageWon,RegularSeasonHomePercentageWon,RegularSeasonAwayPercentageWon,RegularSeasonFGPercentMean,RegularSeasonFG3PercentMean,RegularSeasonTOMean,RegularSeasonStlMean,LastOrdinalRank,TournamentSeed,PlayedBefore,Winner
+2016,F Dickinson,FL Gulf Coast,A,A,H,H,A,A,H,A,H,H,H,H,A,N,A
+2016,Vanderbilt,Wichita St,A,A,A,H,A,A,A,H,H,H,A,H,A,N,A
+2016,Holy Cross,Southern Univ,A,H,H,H,A,A,A,A,A,A,A,H,A,N,H
+2016,Tulsa,Michigan,A,A,A,A,H,H,H,A,A,H,H,H,A,N,A
+2016,Purdue,Ark Little Rock,H,A,A,H,A,A,A,H,A,H,A,A,A,N,A
+2016,Texas Tech,Butler,H,H,A,A,A,H,A,A,A,H,A,H,A,N,A
+2016,Colorado,Connecticut,H,A,A,A,A,H,A,A,H,H,A,A,A,N,A
+2016,UNC Wilmington,Duke,H,A,H,A,H,A,H,A,A,H,H,H,H,N,A
+2016,Seton Hall,Gonzaga,H,H,A,H,A,H,A,A,A,H,H,A,A,N,A
+2016,Indiana,Chattanooga,H,A,A,A,A,H,A,H,H,H,A,A,A,N,H
+2016,Iowa St,Iona,H,A,A,A,A,H,A,H,H,A,A,A,A,N,H
+2016,Austin Peay,Kansas,A,H,A,A,A,A,A,A,A,H,H,H,H,N,A
+2016,Kentucky,Stony Brook,A,A,H,H,A,H,A,A,A,A,A,A,A,N,H
+2016,Miami FL,Buffalo,H,A,A,A,H,H,H,H,H,A,A,A,A,N,H
+2016,FL Gulf Coast,North Carolina,A,H,A,A,A,A,A,A,H,H,A,H,H,N,A
+2016,Providence,USC,H,A,A,A,H,A,H,A,A,A,H,A,H,N,H
+2016,Fresno St,Utah,A,H,H,A,A,A,A,A,A,A,H,H,H,N,A
+2016,Virginia,Hampton,H,A,A,H,H,H,A,H,H,A,H,A,A,N,H
+2016,Wichita St,Arizona,H,H,A,A,A,A,H,A,A,A,H,H,H,N,H
+2016,Baylor,Yale,A,A,A,H,A,A,A,A,H,A,H,A,A,N,A
+2016,California,Hawaii,A,H,A,H,A,H,A,H,H,A,A,A,A,N,A
+2016,Iowa,Temple,H,H,A,A,H,H,A,H,H,H,H,A,A,N,H
+2016,S Dakota St,Maryland,A,A,H,A,H,H,H,A,A,A,A,H,H,N,A
+2016,Michigan St,MTSU,H,A,H,H,H,H,H,H,H,A,A,A,A,N,A
+2016,Texas,Northern Iowa,A,A,A,A,A,H,H,A,A,H,A,A,A,N,A
+2016,Notre Dame,Michigan,A,A,A,A,H,H,H,H,A,A,H,A,A,N,H
+2016,CS Bakersfield,Oklahoma,A,H,H,A,A,A,A,A,A,A,H,H,H,N,A
+2016,Holy Cross,Oregon,A,H,A,A,A,A,A,A,A,A,A,H,H,N,A
+2016,West Virginia,SF Austin,A,A,A,H,A,A,A,A,A,H,H,A,A,N,A
+2016,St Joseph's PA,Cincinnati,A,A,H,H,H,A,H,H,A,A,A,A,A,N,H
+2016,Syracuse,Dayton,A,H,A,A,A,A,A,A,H,A,H,H,H,N,H
+2016,Texas A&M,WI Green Bay,H,H,A,H,H,H,H,H,H,A,A,A,A,N,H
+2016,Oregon St,VCU,A,A,A,A,A,A,A,A,H,H,A,A,A,N,A
+2016,Villanova,UNC Asheville,H,A,A,H,H,H,H,H,H,A,A,A,A,N,H
+2016,Pittsburgh,Wisconsin,H,A,A,A,H,H,A,H,A,H,A,A,H,N,A
+2016,Weber St,Xavier,A,H,H,A,A,A,A,H,H,H,A,H,H,N,A
+2016,Duke,Yale,A,A,A,H,A,A,A,A,H,A,H,A,A,H,H
+2016,Utah,Gonzaga,H,H,A,H,A,H,A,A,A,H,H,A,A,N,A
+2016,Indiana,Kentucky,H,A,A,A,H,A,H,H,H,H,H,H,H,N,H
+2016,Iowa St,Ark Little Rock,H,H,A,H,A,A,A,H,A,H,A,A,A,N,H
+2016,Kansas,Connecticut,H,A,H,A,H,H,H,H,H,H,H,A,A,N,H
+2016,Miami FL,Wichita St,A,A,A,H,H,H,A,H,H,H,A,A,A,N,H
+2016,North Carolina,Providence,H,A,H,H,H,H,A,H,A,A,H,A,A,N,H
+2016,Butler,Virginia,A,A,A,A,A,A,H,A,A,H,H,H,H,N,A
+2016,Maryland,Hawaii,H,H,A,H,A,H,A,H,H,A,A,A,A,N,H
+2016,Notre Dame,SF Austin,A,A,A,H,A,A,A,A,A,A,A,A,A,N,H
+2016,VCU,Oklahoma,A,H,A,H,A,A,H,A,A,A,H,H,H,N,A
+2016,St Joseph's PA,Oregon,A,A,A,H,A,A,H,A,A,A,A,H,H,N,A
+2016,Syracuse,MTSU,A,H,A,H,A,H,A,A,A,H,H,A,A,N,H
+2016,Northern Iowa,Texas A&M,A,A,H,A,A,A,A,H,H,A,A,H,H,N,A
+2016,Iowa,Villanova,A,H,A,A,A,A,A,A,H,A,H,H,H,N,A
+2016,Wisconsin,Xavier,A,H,A,A,A,A,A,A,H,A,A,H,H,N,H
+2016,Maryland,Kansas,A,H,A,A,A,A,A,A,A,H,A,H,H,N,A
+2016,Oklahoma,Texas A&M,H,A,A,A,H,A,H,H,H,H,A,A,A,N,H
+2016,Duke,Oregon,A,H,A,A,A,A,H,A,H,A,A,H,H,N,A
+2016,Miami FL,Villanova,A,H,A,A,A,A,A,H,H,A,A,H,H,N,A
+2016,North Carolina,Indiana,A,H,H,H,H,A,A,A,A,A,A,A,A,N,H
+2016,Wisconsin,Notre Dame,H,H,A,A,A,A,H,A,A,H,H,H,H,N,A
+2016,Gonzaga,Syracuse,A,A,H,A,H,A,H,H,H,A,A,A,H,N,A
+2016,Virginia,Iowa St,H,A,A,H,H,H,H,A,H,A,A,A,A,N,H
+2016,Oregon,Oklahoma,A,A,H,H,H,H,A,H,A,A,H,H,A,N,A
+2016,Villanova,Kansas,A,A,A,H,A,A,H,A,A,A,A,H,H,N,H
+2016,North Carolina,Notre Dame,H,A,H,H,H,H,H,H,A,H,H,A,A,H,H
+2016,Syracuse,Virginia,A,H,A,A,A,A,A,A,A,H,H,H,H,A,H
+2016,North Carolina,Syracuse,H,A,H,H,H,H,H,H,A,A,A,A,A,H,H
+2016,Oklahoma,Villanova,H,H,A,A,A,A,A,A,H,H,H,H,A,H,A
+2016,North Carolina,Villanova,H,H,H,A,A,A,A,H,A,A,H,H,A,N,A
+2017,Kansas St,Wake Forest,H,H,A,H,H,A,H,A,A,H,H,A,A,N,H
+2017,Mt St Mary's,New Orleans,H,H,H,H,A,H,A,A,H,A,A,H,A,N,H
+2017,UC Davis,NC Central,A,H,A,H,A,H,A,A,H,H,A,H,A,N,H
+2017,USC,Providence,H,H,A,H,H,A,H,H,A,A,H,H,A,N,H
+2017,Arizona,North Dakota,H,A,A,H,H,H,H,H,H,A,A,A,A,N,H
+2017,Butler,Winthrop,A,H,A,H,A,H,A,H,A,A,H,A,A,N,H
+2017,ETSU,Florida,A,A,H,A,H,A,A,H,H,H,H,H,H,N,A
+2017,FL Gulf Coast,Florida St,A,A,H,A,H,A,H,H,H,H,A,H,H,N,A
+2017,Gonzaga,S Dakota St,H,A,A,H,H,H,H,H,H,A,H,A,A,N,H
+2017,Iowa St,Nevada,A,H,A,A,A,A,A,H,H,A,H,A,A,N,H
+2017,Minnesota,MTSU,A,H,A,A,A,A,A,A,A,H,A,A,A,N,A
+2017,Vanderbilt,Northwestern,A,H,A,A,A,A,A,A,H,H,A,H,H,N,A
+2017,Princeton,Notre Dame,H,A,H,A,H,H,H,A,H,H,A,H,H,N,A
+2017,Vermont,Purdue,H,A,H,H,H,H,H,H,A,A,H,H,H,N,A
+2017,VCU,St Mary's CA,A,H,A,H,A,H,A,A,A,H,H,H,H,N,A
+2017,Villanova,Mt St Mary's,H,A,H,A,H,H,H,H,H,A,H,A,A,N,H
+2017,UNC Wilmington,Virginia,H,A,H,A,H,H,H,H,A,H,H,H,H,N,A
+2017,West Virginia,Bucknell,H,H,A,A,A,H,A,A,A,A,H,A,A,N,H
+2017,Virginia Tech,Wisconsin,A,A,A,A,A,A,A,H,H,H,A,H,H,N,A
+2017,Maryland,Xavier,A,A,A,A,H,A,H,A,H,H,A,H,A,N,A
+2017,Arkansas,Seton Hall,H,A,A,H,H,A,H,H,H,A,H,A,A,N,H
+2017,Baylor,New Mexico St,A,A,A,H,A,A,A,H,H,A,H,A,A,N,H
+2017,Cincinnati,Kansas St,H,A,A,H,H,H,H,A,A,A,A,A,A,N,H
+2017,Troy,Duke,A,H,H,A,A,A,A,A,A,H,A,H,H,N,A
+2017,Kansas,UC Davis,H,A,A,A,H,A,H,H,H,A,H,A,A,N,H
+2017,Kentucky,N Kentucky,H,A,H,H,H,H,H,H,A,A,H,A,A,N,H
+2017,Jacksonville St,Louisville,A,H,H,A,A,A,H,H,H,H,A,H,H,N,A
+2017,Michigan,Oklahoma St,A,A,H,H,H,H,A,H,A,A,A,A,A,N,H
+2017,Miami FL,Michigan St,H,A,A,A,H,A,H,A,A,A,H,H,A,N,A
+2017,TX Southern,North Carolina,H,H,H,H,A,A,A,A,A,A,H,H,H,N,A
+2017,Oregon,Iona,H,A,A,A,H,H,H,H,A,A,A,A,A,N,H
+2017,Rhode Island,Creighton,A,A,H,A,A,H,A,A,A,A,H,H,H,N,H
+2017,South Carolina,Marquette,H,H,A,A,H,A,H,A,A,H,H,H,A,N,H
+2017,UCLA,Kent,H,A,A,A,H,H,H,H,H,A,A,A,A,N,H
+2017,USC,SMU,A,H,A,A,A,A,A,A,A,H,H,H,H,H,H
+2017,Wichita St,Dayton,H,A,H,H,H,H,H,H,H,A,A,A,H,N,H
+2017,Arizona,St Mary's CA,H,A,H,H,H,H,A,A,A,H,H,H,A,N,H
+2017,Butler,MTSU,A,A,A,A,A,A,A,A,H,A,A,A,A,N,H
+2017,Florida,Virginia,H,A,A,A,H,H,H,A,A,H,H,H,A,N,H
+2017,Gonzaga,Northwestern,H,A,H,A,H,H,H,H,H,H,H,A,A,N,H
+2017,Iowa St,Purdue,A,H,H,H,A,A,A,A,A,A,H,H,H,N,A
+2017,West Virginia,Notre Dame,A,A,A,A,H,A,A,A,A,H,H,A,A,N,H
+2017,Villanova,Wisconsin,H,A,H,A,H,H,H,H,H,H,H,A,A,N,A
+2017,Xavier,Florida St,A,H,A,H,A,A,A,A,A,H,A,H,H,N,H
+2017,Baylor,USC,A,A,A,A,H,H,H,H,A,H,A,A,A,N,H
+2017,Kansas,Michigan St,H,A,A,A,H,H,H,H,H,A,H,A,A,N,H
+2017,Kentucky,Wichita St,A,A,A,H,A,A,A,H,A,H,A,A,A,N,H
+2017,Michigan,Louisville,A,H,H,H,A,A,A,H,H,A,A,H,H,N,H
+2017,North Carolina,Arkansas,A,A,A,A,H,H,A,H,H,H,A,A,A,N,H
+2017,Rhode Island,Oregon,A,H,H,A,A,A,A,A,A,A,A,H,H,N,A
+2017,South Carolina,Duke,A,H,A,A,A,A,H,A,A,H,H,H,H,N,H
+2017,UCLA,Cincinnati,A,H,A,A,H,A,H,H,H,H,A,A,A,N,H
+2017,Gonzaga,West Virginia,H,A,H,A,H,H,H,H,H,A,A,A,A,N,H
+2017,Purdue,Kansas,A,A,A,A,A,A,A,A,H,A,A,H,H,N,A
+2017,Oregon,Michigan,H,A,A,A,H,H,H,A,A,H,H,H,A,N,H
+2017,Arizona,Xavier,H,A,H,A,H,H,H,H,H,A,A,A,A,N,A
+2017,Florida,Wisconsin,A,A,A,A,H,H,H,A,H,H,H,A,A,N,H
+2017,Kentucky,UCLA,A,A,H,H,A,A,A,A,A,H,A,A,A,A,H
+2017,North Carolina,Butler,A,A,A,H,H,H,A,A,A,H,H,A,A,N,H
+2017,Baylor,South Carolina,H,A,A,A,H,H,H,H,H,A,A,A,A,N,A
+2017,Xavier,Gonzaga,A,H,A,H,A,A,A,A,A,H,A,H,H,N,A
+2017,Kansas,Oregon,H,A,A,A,H,A,H,H,H,H,H,A,A,N,A
+2017,North Carolina,Kentucky,A,A,A,A,A,H,A,A,H,A,H,A,A,A,H
+2017,South Carolina,Florida,A,H,A,A,A,A,A,A,A,H,H,H,H,A,H
+2017,South Carolina,Gonzaga,A,H,A,A,A,A,A,A,A,H,H,H,H,N,A
+2017,North Carolina,Oregon,A,A,A,A,A,A,A,A,A,H,H,A,A,N,H
+2017,North Carolina,Gonzaga,A,A,A,A,A,H,A,A,A,H,A,H,A,N,H
+2018,LIU Brooklyn,Radford,A,A,A,H,A,H,A,H,H,H,A,H,A,N,A
+2018,St Bonaventure,UCLA,H,A,A,A,H,H,H,A,H,A,H,H,A,N,H
+2018,Arizona St,Syracuse,H,A,A,A,H,H,A,H,H,A,A,A,A,N,A
+2018,NC Central,TX Southern,A,A,A,A,H,H,A,H,A,H,A,H,A,N,A
+2018,Virginia Tech,Alabama,H,A,A,A,H,H,H,H,H,A,A,A,A,N,A
+2018,Buffalo,Arizona,A,A,H,A,A,A,A,A,A,H,H,H,H,N,H
+2018,Duke,Iona,H,A,A,A,H,H,H,H,A,H,H,A,A,N,H
+2018,Florida,St Bonaventure,A,H,A,A,A,A,A,A,A,A,A,A,A,N,H
+2018,Gonzaga,UNC Greensboro,H,A,H,H,H,H,H,H,H,A,A,A,A,N,H
+2018,Houston,San Diego St,A,A,A,H,H,H,H,H,H,H,H,A,A,N,H
+2018,Penn,Kansas,A,A,A,A,A,A,A,A,A,H,A,H,H,N,A
+2018,Davidson,Kentucky,A,A,H,A,A,H,H,H,H,A,A,H,H,N,A
+2018,Loyola-Chicago,Miami FL,A,A,H,H,H,H,H,H,H,H,H,A,H,N,H
+2018,Montana,Michigan,H,H,A,A,A,H,H,H,A,H,H,H,H,N,A
+2018,Ohio St,S Dakota St,A,A,A,H,A,A,H,H,A,H,H,A,A,N,H
+2018,Rhode Island,Oklahoma,H,A,A,H,H,H,H,A,A,A,H,A,A,N,H
+2018,NC State,Seton Hall,A,A,A,A,A,H,A,H,A,A,H,H,H,N,A
+2018,Wright St,Tennessee,H,H,H,A,A,A,A,A,A,H,H,H,H,N,A
+2018,SF Austin,Texas Tech,A,A,H,A,H,A,H,H,A,H,H,H,H,N,A
+2018,Radford,Villanova,A,H,H,A,A,A,A,A,A,H,A,H,H,N,A
+2018,Col Charleston,Auburn,A,A,H,A,A,H,A,H,A,A,A,H,H,N,A
+2018,Arkansas,Butler,H,A,A,H,H,H,A,H,H,A,A,A,A,N,A
+2018,Cincinnati,Georgia St,H,A,H,H,H,H,H,A,A,H,H,A,A,N,H
+2018,Clemson,New Mexico St,A,H,A,H,A,H,A,A,H,A,H,A,A,N,H
+2018,Missouri,Florida St,A,H,A,A,A,A,H,A,H,H,A,A,A,N,A
+2018,Kansas St,Creighton,A,A,A,H,H,A,H,A,A,H,H,H,H,N,H
+2018,Wichita St,Marshall,H,A,A,A,H,A,H,H,H,A,A,A,A,N,A
+2018,Michigan St,Bucknell,H,A,A,A,H,H,H,H,H,H,A,A,A,N,H
+2018,Texas,Nevada,A,H,A,A,A,A,A,A,A,H,A,H,H,N,A
+2018,North Carolina,Lipscomb,A,A,A,H,H,A,A,H,H,A,A,A,A,N,H
+2018,Purdue,CS Fullerton,H,A,A,H,H,H,H,H,H,A,A,A,A,N,H
+2018,TCU,Syracuse,H,A,A,A,H,H,A,H,H,H,A,A,A,N,A
+2018,Providence,Texas A&M,A,A,A,H,A,A,A,A,H,A,H,H,H,N,A
+2018,Virginia,UMBC,H,A,H,H,H,H,H,H,H,A,A,A,A,N,A
+2018,Murray St,West Virginia,A,A,H,A,H,H,H,H,H,H,A,H,H,N,A
+2018,Xavier,TX Southern,H,A,A,A,H,H,H,H,H,A,H,A,A,N,H
+2018,Rhode Island,Duke,H,A,A,A,A,A,H,A,A,A,A,H,H,N,A
+2018,Ohio St,Gonzaga,A,H,A,A,A,A,A,A,A,H,A,H,H,A,A
+2018,Seton Hall,Kansas,A,H,A,A,A,A,A,A,A,H,A,H,H,N,A
+2018,Kentucky,Buffalo,A,H,A,H,A,A,A,A,A,H,A,A,A,N,H
+2018,Loyola-Chicago,Tennessee,H,A,H,A,H,H,H,H,H,H,H,H,H,N,H
+2018,Michigan,Houston,H,A,H,H,H,A,A,A,A,A,A,A,A,N,H
+2018,Florida,Texas Tech,A,A,A,A,A,A,H,A,H,A,A,H,H,N,A
+2018,Villanova,Alabama,H,A,H,A,H,H,H,H,H,A,H,A,A,N,H
+2018,Clemson,Auburn,A,H,A,A,A,A,A,H,A,A,A,H,H,N,H
+2018,Florida St,Xavier,A,A,A,A,A,A,A,A,A,H,H,H,H,N,H
+2018,UMBC,Kansas St,H,H,H,A,H,H,H,A,H,H,A,H,H,N,A
+2018,Cincinnati,Nevada,H,A,H,A,H,H,H,A,A,H,H,A,A,N,A
+2018,Butler,Purdue,A,A,A,A,A,A,A,A,A,H,H,H,H,A,A
+2018,Syracuse,Michigan St,A,H,A,A,A,A,A,A,A,A,H,H,H,N,H
+2018,North Carolina,Texas A&M,A,A,A,H,H,A,H,A,H,A,H,A,A,N,A
+2018,Marshall,West Virginia,A,A,H,A,A,H,A,H,A,H,A,H,H,N,A
+2018,Florida St,Gonzaga,A,H,A,A,A,A,A,A,A,H,H,H,H,N,H
+2018,Kansas St,Kentucky,A,A,A,A,A,A,H,A,A,A,H,H,H,N,H
+2018,Nevada,Loyola-Chicago,A,A,A,H,A,H,H,A,A,A,A,A,A,N,A
+2018,Michigan,Texas A&M,H,A,H,H,H,H,H,H,H,A,H,A,A,N,H
+2018,Syracuse,Duke,A,H,A,A,A,A,A,A,A,A,A,H,H,A,A
+2018,Kansas,Clemson,A,A,H,H,H,A,H,H,H,A,H,A,A,N,H
+2018,Purdue,Texas Tech,H,A,A,H,H,A,H,H,H,A,A,A,A,N,A
+2018,West Virginia,Villanova,H,H,A,A,A,A,A,A,A,H,H,H,H,N,A
+2018,Loyola-Chicago,Kansas St,H,A,H,A,H,H,H,H,H,H,A,A,H,N,H
+2018,Michigan,Florida St,A,A,H,H,H,H,H,A,H,A,A,A,A,N,H
+2018,Duke,Kansas,H,A,A,A,A,H,A,A,A,H,H,A,H,N,A
+2018,Texas Tech,Villanova,A,H,A,A,A,H,A,A,A,H,H,H,H,N,A
+2018,Loyola-Chicago,Michigan,H,H,H,A,H,A,H,H,H,H,H,H,H,N,A
+2018,Kansas,Villanova,A,H,A,A,A,A,A,A,H,H,A,H,A,N,A
+2018,Villanova,Michigan,H,A,A,A,H,A,H,H,H,H,H,A,A,N,H
+2019,Temple,Belmont,A,A,A,H,A,A,A,A,A,A,H,H,A,N,A
+2019,F Dickinson,Prairie View,A,A,A,A,A,A,H,H,H,H,A,H,A,N,H
+2019,Arizona St,St John's,A,A,A,A,H,H,H,A,A,H,A,A,A,N,H
+2019,N Dakota St,NC Central,H,A,H,H,H,A,H,H,H,A,A,A,A,N,H
+2019,Auburn,New Mexico St,A,H,A,H,A,A,A,A,H,H,H,A,A,N,H
+2019,Syracuse,Baylor,A,A,A,H,H,A,H,A,A,A,H,A,A,N,A
+2019,Nevada,Florida,H,A,A,A,H,H,H,H,H,A,A,A,A,N,A
+2019,Vermont,Florida St,A,A,H,A,H,A,H,H,H,A,A,H,H,N,A
+2019,Gonzaga,F Dickinson,H,A,A,H,H,H,H,H,A,A,H,A,A,N,H
+2019,Kansas,Northeastern,H,A,A,H,H,H,A,A,A,H,H,A,A,N,H
+2019,Kentucky,Abilene Chr,H,A,A,H,H,H,H,H,A,H,A,A,A,N,H
+2019,LSU,Yale,H,A,A,H,H,H,H,A,A,A,H,A,A,N,H
+2019,Maryland,Belmont,A,A,A,H,A,A,A,A,A,H,A,A,A,N,H
+2019,Michigan,Montana,H,A,A,H,H,H,A,A,A,A,A,A,A,N,H
+2019,Michigan St,Bradley,H,A,H,H,H,H,H,H,H,H,H,A,A,N,H
+2019,Minnesota,Louisville,A,H,A,H,H,H,A,H,A,A,H,H,H,N,H
+2019,Marquette,Murray St,A,H,A,H,A,A,A,A,H,H,A,A,A,N,A
+2019,Old Dominion,Purdue,A,A,H,H,H,A,H,A,A,H,A,H,H,N,A
+2019,Villanova,St Mary's CA,H,A,H,H,H,H,A,A,A,H,A,A,A,N,H
+2019,Wofford,Seton Hall,H,A,H,A,H,H,H,H,H,A,A,A,A,N,H
+2019,Arizona St,Buffalo,A,H,A,A,A,A,A,A,H,H,A,H,H,N,A
+2019,N Dakota St,Duke,A,H,H,A,A,A,A,A,H,A,A,H,H,N,A
+2019,Houston,Georgia St,H,A,A,H,H,H,H,A,A,A,A,A,A,N,H
+2019,Iowa,Cincinnati,A,H,A,A,A,A,A,H,H,H,H,H,H,N,H
+2019,Mississippi St,Liberty,H,H,A,H,A,A,A,A,H,H,H,A,A,N,A
+2019,Iona,North Carolina,H,H,H,A,A,A,A,A,A,A,A,H,H,N,A
+2019,Ohio St,Iowa St,H,H,A,A,A,A,A,A,A,H,A,H,H,N,H
+2019,Mississippi,Oklahoma,H,A,A,A,H,A,H,H,H,H,H,H,A,N,A
+2019,Oregon,Wisconsin,H,H,H,H,A,A,A,A,A,H,H,H,H,N,H
+2019,Colgate,Tennessee,A,H,H,A,A,A,A,A,H,H,H,H,H,N,A
+2019,Texas Tech,N Kentucky,H,H,A,A,H,H,H,A,A,H,H,A,A,N,H
+2019,UC Irvine,Kansas St,H,A,H,H,H,A,H,H,H,H,A,H,H,N,H
+2019,VCU,UCF,H,A,A,H,H,H,H,A,A,H,H,A,A,N,A
+2019,Virginia,Gardner Webb,H,A,A,H,H,A,H,A,H,A,A,A,A,N,H
+2019,Virginia Tech,St Louis,H,A,A,A,H,A,H,H,H,A,A,A,A,N,H
+2019,Washington,Utah St,H,A,A,H,A,H,A,A,A,H,H,H,H,N,H
+2019,Auburn,Kansas,A,H,H,A,A,A,H,A,H,A,H,A,H,N,H
+2019,Murray St,Florida St,H,A,H,A,H,A,H,H,H,A,H,H,H,N,A
+2019,Baylor,Gonzaga,A,H,A,A,A,A,A,A,A,H,A,H,H,N,A
+2019,Wofford,Kentucky,H,A,H,A,H,A,A,H,H,A,H,H,H,N,A
+2019,LSU,Maryland,H,A,A,A,H,H,H,H,A,H,H,A,A,N,H
+2019,Florida,Michigan,A,H,A,A,A,A,A,A,A,H,H,H,H,N,A
+2019,Minnesota,Michigan St,A,H,A,A,A,A,A,A,A,A,A,H,H,A,A
+2019,Villanova,Purdue,H,H,H,H,H,A,A,A,A,H,A,H,H,N,A
+2019,UCF,Duke,A,H,A,A,A,A,A,A,H,A,A,H,H,N,A
+2019,Houston,Ohio St,H,A,A,H,H,H,H,H,H,A,H,A,A,N,H
+2019,North Carolina,Washington,A,A,A,A,H,A,H,H,H,A,A,A,A,N,H
+2019,UC Irvine,Oregon,H,A,H,A,H,H,H,H,H,A,A,H,H,N,A
+2019,Iowa,Tennessee,A,H,A,A,A,A,A,A,A,H,H,H,H,N,A
+2019,Texas Tech,Buffalo,A,H,A,A,A,A,A,H,H,H,H,A,A,N,H
+2019,Virginia,Oklahoma,H,A,A,A,H,H,H,H,H,A,A,A,A,N,H
+2019,Virginia Tech,Liberty,H,H,A,H,A,A,A,A,H,H,H,A,A,N,H
+2019,Florida St,Gonzaga,A,H,A,H,A,A,A,A,A,H,A,H,H,N,A
+2019,Tennessee,Purdue,H,A,A,H,H,A,H,H,A,H,A,A,A,N,A
+2019,Michigan,Texas Tech,H,A,A,H,H,A,A,A,A,A,A,A,A,N,A
+2019,Oregon,Virginia,A,H,H,H,A,A,A,A,A,H,H,H,H,N,A
+2019,Auburn,North Carolina,A,H,H,H,A,A,A,A,H,A,H,H,H,N,H
+2019,Virginia Tech,Duke,A,H,A,A,A,A,A,A,H,A,A,H,H,H,A
+2019,Kentucky,Houston,A,A,A,A,A,A,A,H,H,H,A,A,A,N,H
+2019,Michigan St,LSU,H,H,H,H,H,H,A,H,H,A,A,A,A,N,H
+2019,Gonzaga,Texas Tech,H,A,A,H,H,H,H,H,A,A,H,A,A,N,A
+2019,Virginia,Purdue,H,A,A,A,H,A,H,H,H,A,A,A,A,N,H
+2019,Auburn,Kentucky,A,H,H,H,A,A,A,A,H,A,H,H,H,A,H
+2019,Duke,Michigan St,A,A,A,A,H,A,H,A,A,H,H,A,A,N,A
+2019,Michigan St,Texas Tech,H,A,H,H,H,A,A,H,H,H,A,A,A,N,A
+2019,Auburn,Virginia,A,H,H,H,A,A,A,A,A,H,H,H,H,N,A
+2019,Virginia,Texas Tech,H,A,A,A,H,A,H,H,H,A,A,A,A,N,H
+2021,Wichita St,Drake,A,H,A,A,A,A,A,A,A,H,A,A,A,N,A
+2021,Norfolk St,Appalachian St,H,A,H,A,H,A,H,H,H,H,A,H,A,N,H
+2021,Mt St Mary's,TX Southern,A,A,A,A,A,A,H,A,H,A,A,H,A,N,A
+2021,UCLA,Michigan St,H,A,A,A,H,H,H,H,H,A,H,A,A,N,H
+2021,Arkansas,Colgate,A,H,A,H,A,H,A,A,A,H,H,A,A,N,H
+2021,Hartford,Baylor,A,H,H,A,A,A,A,A,A,H,A,H,H,N,A
+2021,Florida,Virginia Tech,A,H,A,H,A,A,A,H,A,H,H,H,A,N,H
+2021,Houston,Cleveland St,A,A,H,A,H,H,H,A,H,A,H,A,A,N,H
+2021,Drexel,Illinois,A,A,A,A,A,A,A,A,H,A,A,H,H,N,A
+2021,Georgia Tech,Loyola-Chicago,A,A,H,A,A,A,A,A,A,A,H,A,H,N,A
+2021,Purdue,North Texas,H,A,A,H,H,H,A,A,A,A,A,A,A,N,A
+2021,Liberty,Oklahoma St,H,A,H,A,H,H,A,H,H,A,A,H,H,N,A
+2021,Ohio St,Oral Roberts,H,A,A,H,H,H,H,H,A,A,A,A,A,N,A
+2021,Oregon St,Tennessee,A,H,H,H,A,A,A,A,A,A,A,H,H,N,H
+2021,Rutgers,Clemson,H,H,A,H,A,A,H,H,A,A,H,H,H,N,H
+2021,San Diego St,Syracuse,H,A,H,H,H,A,H,H,H,H,A,A,A,N,A
+2021,Utah St,Texas Tech,H,A,A,A,H,H,H,A,A,H,A,H,H,N,A
+2021,Winthrop,Villanova,H,A,H,H,H,A,H,H,A,H,H,H,H,N,A
+2021,Morehead St,West Virginia,H,A,H,H,H,H,A,H,A,H,A,H,H,N,A
+2021,Wisconsin,North Carolina,H,H,A,H,A,A,H,A,H,A,A,H,H,N,H
+2021,Texas,Abilene Chr,A,H,H,H,A,A,H,A,A,H,A,A,A,N,A
+2021,Alabama,Iona,H,A,A,H,H,H,H,A,A,A,H,A,A,N,H
+2021,Georgetown,Colorado,A,H,H,A,A,A,A,A,H,H,H,H,H,N,A
+2021,UC Santa Barbara,Creighton,H,A,H,A,H,H,H,A,A,A,H,H,H,N,A
+2021,Florida St,UNC Greensboro,A,A,A,A,H,H,A,H,H,H,A,A,A,N,H
+2021,Norfolk St,Gonzaga,A,H,A,A,A,A,A,A,H,H,A,H,H,N,A
+2021,Grand Canyon,Iowa,H,H,H,A,A,A,H,H,A,H,A,H,H,N,A
+2021,Kansas,E Washington,A,A,A,H,H,H,A,A,A,H,H,A,A,N,H
+2021,LSU,St Bonaventure,A,H,A,H,A,A,A,H,H,H,H,H,A,N,H
+2021,Connecticut,Maryland,A,A,A,A,H,H,H,A,A,H,H,A,A,N,A
+2021,Michigan,TX Southern,H,A,A,H,H,H,H,H,H,A,A,A,A,N,H
+2021,Ohio,Virginia,A,A,A,A,A,A,A,H,A,H,H,H,H,N,H
+2021,Oklahoma,Missouri,A,H,A,A,A,H,A,A,H,A,H,H,A,N,H
+2021,UCLA,BYU,H,H,A,H,A,H,A,A,H,A,H,H,H,N,H
+2021,USC,Drake,A,H,A,H,A,A,A,A,A,H,A,A,A,N,H
+2021,Arkansas,Texas Tech,H,A,A,H,H,H,A,H,A,H,H,A,A,N,H
+2021,Wisconsin,Baylor,A,H,A,H,A,A,A,A,A,A,A,H,H,N,A
+2021,Houston,Rutgers,H,A,H,A,H,H,H,A,H,A,H,A,A,N,H
+2021,Loyola-Chicago,Illinois,H,A,A,A,H,H,A,H,A,A,H,H,H,N,H
+2021,Florida,Oral Roberts,A,A,A,A,H,H,H,H,A,H,H,A,A,N,A
+2021,Oklahoma St,Oregon St,H,A,A,A,H,H,H,H,A,H,H,A,A,N,A
+2021,West Virginia,Syracuse,H,A,A,H,H,A,H,A,H,H,A,A,A,N,A
+2021,North Texas,Villanova,A,H,H,H,A,A,A,H,H,H,H,H,H,N,A
+2021,Alabama,Maryland,H,A,H,H,H,H,H,A,A,H,H,A,A,N,H
+2021,Ohio,Creighton,A,H,H,A,A,A,A,H,H,H,A,H,H,N,A
+2021,Florida St,Colorado,A,A,A,A,A,H,A,H,H,H,H,A,A,N,H
+2021,Oklahoma,Gonzaga,A,H,A,A,A,A,A,A,A,A,A,H,H,N,A
+2021,Michigan,LSU,H,A,A,A,H,H,H,H,H,A,A,A,A,N,H
+2021,Iowa,Oregon,A,A,A,H,A,H,A,A,H,A,A,A,A,N,A
+2021,UCLA,Abilene Chr,A,H,A,H,A,A,A,H,A,A,A,A,A,N,H
+2021,Kansas,USC,A,H,H,A,A,H,A,A,A,A,H,A,A,N,A
+2021,Arkansas,Oral Roberts,H,A,A,H,H,H,H,H,A,H,H,A,A,H,H
+2021,Villanova,Baylor,A,H,A,A,A,A,A,A,A,A,A,H,H,N,A
+2021,Houston,Syracuse,H,A,H,H,H,H,H,A,H,A,A,A,A,N,H
+2021,Oregon St,Loyola-Chicago,A,H,A,H,A,A,A,A,A,A,A,H,H,N,H
+2021,Gonzaga,Creighton,H,A,H,A,H,H,H,H,A,H,H,A,A,N,H
+2021,Florida St,Michigan,A,A,A,A,A,A,A,A,H,H,H,H,H,N,A
+2021,UCLA,Alabama,A,H,A,A,A,A,A,H,H,A,A,H,H,N,H
+2021,USC,Oregon,A,A,A,H,A,H,A,A,A,H,A,A,A,H,H
+2021,Arkansas,Baylor,A,H,A,H,A,A,A,A,A,H,A,H,H,N,A
+2021,Oregon St,Houston,A,H,A,H,A,A,A,A,A,H,A,H,H,N,A
+2021,USC,Gonzaga,A,H,A,H,A,A,A,A,A,H,A,H,H,N,A
+2021,UCLA,Michigan,A,H,A,H,A,A,A,A,A,H,H,H,H,N,H
+2021,Baylor,Houston,H,A,A,A,H,A,H,H,H,H,H,A,A,N,H
+2021,Gonzaga,UCLA,H,A,H,A,H,H,H,H,A,H,H,A,A,N,H
+2021,Baylor,Gonzaga,A,H,A,A,A,A,A,A,H,H,H,H,A,N,H
